@@ -13,7 +13,7 @@ also assigns value labels corresponding to the highest checkbox selected.
 
 # Example
 **checkboxToOrdered(varlist = ["HS", "Bachelors", "Masters", "Doctorate"], 
-orderedVar = "Education")
+orderedVar = "Education")**
 * The function will create a new variable called "Education" that has values ranging from 1 to 4. 
 * If participants only selected HS, then they would have a value of 1. 
 * If they only selected Bachelors or selected HS and Bachelors, they would have a value of 2. 
