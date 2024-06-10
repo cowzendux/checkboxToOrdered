@@ -25,7 +25,7 @@ orderedVar = "Education")
 * have a value of 3. If they only selected Doctorate or they selected Doctorate and any
 * of the other degrees, they would have a value of 4.
 
-begin program python.
+BEGIN PROGRAM PYTHON3.
 import spss
 
 def checkboxToOrdered(varlist, orderedVar):
